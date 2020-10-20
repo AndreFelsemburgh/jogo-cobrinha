@@ -1,0 +1,16 @@
+body {
+    height: 95vh;
+    width: 95;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: #034403;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', sans-serif;
+    background-color: #cccccc;
+}
+
+canvas {
+    border: 3px solid #2a7703;
+}
+
